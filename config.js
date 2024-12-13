@@ -2,7 +2,7 @@ global.owner = [
   "994407122025",
   "994406212730"
 ]
-global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
+global.anitav4 = "★★𝗥𝐀𝐉-𝐁𝐎𝐓-𝐎𝐅𝐂★★"
 global.ownername = "Raj Kumar"
 global.packname = "RajWhatsApp"
 global.author = "+994407122025"
