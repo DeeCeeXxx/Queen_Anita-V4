@@ -30,7 +30,7 @@ global.roles = {
     25: "Legend",
 };
 
-global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.net"]; // Add the JIDs of sudo users
+global.sudoUsers = ["2347040694847@s.whatsapp.net", "2347040694847@s.whatsapp.net"]; // Add the JIDs of sudo users
 
 
 
