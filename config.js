@@ -1,11 +1,11 @@
 require('dotenv').config(); 
 
 global.owner = process.env.OWNER_NUMBER.split(','); 
-global.anitav4 = process.env.BOT_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
-global.ownername = process.env.OWNER_NAME || "David Cyril";
-global.packname = process.env.PACK_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
-global.author = process.env.AUTHOR || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
-global.channelname = process.env.CHANNEL_NAME || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
+global.anitav4 = process.env.BOT_NAME || "SEPTORC";
+global.ownername = process.env.OWNER_NAME || "SEPTORCH";
+global.packname = process.env.PACK_NAME || "SEPTORC";
+global.author = process.env.AUTHOR || "SEPTORCH";
+global.channelname = process.env.CHANNEL_NAME || "SEPTORC";
 global.channeljid = process.env.CHANNEL_JID || "120363315231436175@newsletter";
 global.autoTyping = process.env.AUTO_TYPING === 'true'; 
 global.autoRecord = process.env.AUTO_RECORD === 'true';
@@ -60,7 +60,7 @@ global.mess = {
     private: process.env.MESSAGE_PRIVATE || '_*❗This Command Can Only Be Used In Private Chat !*_',
     wait: process.env.MESSAGE_WAIT || '_*Please Wait*_',
     notregist: process.env.MESSAGE_NOT_REGIST || '_*You are not registered in the Bot Database. Please register first*_',
-    premium: process.env.MESSAGE_PREMIUM || '_*Premium only" Want Premium? Chat Owner*_',
+    premium: process.env.MESSAGE_PREMIUM || '_*Premium only\" Want Premium? Chat Owner*_',
     endLimit: process.env.MESSAGE_END_LIMIT || '_*Your Daily Limit Has Been Used Up, The Limit Will Be Reset Every 00:00 AM_*.',
 };
 
